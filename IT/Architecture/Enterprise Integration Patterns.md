@@ -18,3 +18,11 @@ Industry has evolved very high level strategies to address this need and some of
 > * Messaging
 
 ## What is messaging?
+excepts from EIP classsic "**Messaging is a technology that enables high speed, async , program-program communication with reliable delivery.**"
+
+## What does it to take to implement such a system?
+Lets see the below abstract representation of such a system
+eference-style: 
+![alt text][logo]
+
+[logo]: eaiflow.png "Logo Title Text 2"

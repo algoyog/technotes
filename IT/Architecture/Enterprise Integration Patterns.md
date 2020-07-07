@@ -21,8 +21,8 @@ Industry has evolved very high level strategies to address this need and some of
 excepts from EIP classsic "**Messaging is a technology that enables high speed, async , program-program communication with reliable delivery.**"
 
 ## What does it to take to implement such a system?
-Lets see the below abstract representation of such a system
-eference-style: 
+Lets see the below abstract representation of such a system 
+
 ![alt text][logo]
 
-[logo]: eaiflow.png "Logo Title Text 2"
+[logo]: https://github.com/gearuprepo/technotes/raw/master/IT/Architecture/eaiflow.png "Logo Title Text 2"

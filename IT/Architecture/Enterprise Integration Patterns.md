@@ -20,9 +20,32 @@ Industry has evolved very high level strategies to address this need and some of
 ## What is messaging?
 excepts from EIP classsic "**Messaging is a technology that enables high speed, async , program-program communication with reliable delivery.**"
 
+## Why would you choose messaging over other strategies?
+The quick answer is <br>
+- is **more immediate** than File transfer
+- is **provides better encapsulation** than Shared DB
+- is **more reliable** than RPCs
+
+## Pros of such a system
+- Remote Communication
+- Platform/Language integration
+- Async comm
+- Variable Timing
+- Throttling
+- Reliability
+- Mediation
+
+## Cons?
+- Complex programming model
+- Sequencing issues
+- Difficult to handle sync issues
+- Performance
+- Vendor lock-in
+
 ## What does it to take to implement such a system?
 Lets see the below abstract representation of such a system 
 
+*https://www.enterpriseintegrationpatterns.com/patterns/messaging/*
 ![alt text][logo]
 
 [logo]: https://github.com/gearuprepo/technotes/raw/master/IT/Architecture/eaiflow.png "Logo Title Text 2"

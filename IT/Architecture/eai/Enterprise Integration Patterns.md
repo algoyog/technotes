@@ -51,4 +51,4 @@ Lets see the below abstract representation of such a system
 
 ![alt text][logo2]
 
-[logo2]: https://github.com/gearuprepo/technotes/raw/master/IT/Architecture/eai/eaiflow.png  ""
+[logo2]: eaiflow.png  ""

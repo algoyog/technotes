@@ -55,7 +55,7 @@ With the above introduction to "what is what". Below is intro into framework tha
 
 [logo2]: https://github.com/gearuprepo/technotes/raw/master/IT/Architecture/msa/TORSA-3.png ""
 
-- Tools
+- **T**ools
     - Language - The implementation language used that could range from Java, .NET, python, nodejs, etc.
     - Framework - This would include microservices supported/enabling frameworks like springboot,etc
     - Datastore - This is the core datastore to store domain data. eg, SQL(MySql), NoSQL (Mongo) ..etc
@@ -65,13 +65,13 @@ With the above introduction to "what is what". Below is intro into framework tha
     - APIs - Apache camel, etc
     - Cloud - AWS, GCP, Azure
 
-- Orchestration
+- **O**rchestration
     - Container 
     - Orchestration
-- Runtime Core
+- **R**untime Core
     - Microservice
     - Data
-- Service Mesh
+- **S**ervice Mesh
     - Communication - The communication between microservices. This can be sync or async.
     - Registry/Discovery - The microservice discovery and registry services.
     - Telemetry - This includes, metrics, monitoring, logging, tracing.
@@ -80,7 +80,7 @@ With the above introduction to "what is what". Below is intro into framework tha
     - Routing - Routing and circuit breaker 
     - API Management and Ingress - Expose services to outside world
     - Documentation - Microservice documentation.
-- Automation
+- **A**utomation
     - Devops - CI, CD
     - Test Automation - Automate unit, integration, performance testing
     - Code Quality - Static, dynamic and secure code analysis

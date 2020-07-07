@@ -12,7 +12,7 @@ Below diagram is a visual representation of world vs nano world vs microservice 
 
 ![alt text][logo]
 
-[logo]: https://github.com/gearuprepo/technotes/raw/master/IT/Architecture/msa/TORSA-1.png ""
+[logo]: TORSA-1.png ""
 
 **Ok, cool, but what is a domain and how to define loose coupling?**
 
@@ -34,7 +34,7 @@ With the above introduction to "what is what". Below is intro into framework tha
 
 ![alt text][logo1]
 
-[logo1]: https://github.com/gearuprepo/technotes/raw/master/IT/Architecture/msa/TORSA-2.png ""
+[logo1]: TORSA-2.png ""
 
 
 - **T**ools
@@ -53,7 +53,7 @@ With the above introduction to "what is what". Below is intro into framework tha
 
 ![alt text][logo2]
 
-[logo2]: https://github.com/gearuprepo/technotes/raw/master/IT/Architecture/msa/TORSA-3.png ""
+[logo2]: TORSA-3.png ""
 
 - **T**ools
     - Language - The implementation language used that could range from Java, .NET, python, nodejs, etc.

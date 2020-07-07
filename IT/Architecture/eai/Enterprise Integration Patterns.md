@@ -46,5 +46,9 @@ The quick answer is <br>
 Lets see the below abstract representation of such a system 
 
 *https://www.enterpriseintegrationpatterns.com/patterns/messaging/*
-![alt text][logo]
-[logo]: https://github.com/gearuprepo/technotes/raw/master/IT/Architecture/eai/eaiflow.png "Logo Title Text 2"
+
+
+
+![alt text][logo2]
+
+[logo2]: https://github.com/gearuprepo/technotes/raw/master/IT/Architecture/eai/eaiflow.png  ""

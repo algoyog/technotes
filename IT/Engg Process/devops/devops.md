@@ -81,6 +81,10 @@ At large there are 2 areas to focus and target.
 
 [fig4]: devops-13.png ""
 
+#### Culture
+Key to success of devops impmentation is enabling the right culture. 
+> A culture that values psychological safety, trust, and respect contributes to productivity by letting employees focus on solving problems and getting their work done rather than politics and fighting with enable the right culture and collaboration in the org.
+
 #### SDO and Org Perf
 
 ![alt text][fig5]
@@ -123,8 +127,6 @@ Below is a typical view of CI/CD with available tools as of 2020.
 
 [fig9]: devops-3.png ""
 
-#### Culture
-**A culture that values psychological safety, trust, and respect contributes to productivity by letting employees focus on solving problems and getting their work done rather than politics and fighting.**
 
 ## References
 https://aws.amazon.com/devops/what-is-devops/ <br>

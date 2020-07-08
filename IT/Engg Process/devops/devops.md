@@ -62,6 +62,46 @@ Below diagram gives a view of what are the key areas that will devops address.
 
 [fig3]: devops-12.png ""
 
+### How to achieve the targets
+
+At large there are 2 areas to focus and target. 
+- SDO and Organizational Performance
+    - Change Mgmt
+    - Cloud Adoption
+    - Technical practices 
+    - DR strategies
+- Productivity
+    - Tools
+    - Internal Search/Docs
+    - External Search
+    - Technical Debt
+- Culture
+
+![alt text][fig4]
+
+[fig4]: devops-13.png ""
+
+#### SDO and Org Perf
+
+![alt text][fig5]
+
+[fig5]: devops-14.png ""
+
+#### Productivity
+
+![alt text][fig6]
+
+[fig6]: devops-15.png ""
+
+##### Special Notes on CI/CD
+
+Below are the key areas that needs to mature to have a clear and matured CI/CD automation
+
+![alt text][fig7]
+
+[fig7]: devops-16.png ""
+
+
 
 ## References
 https://aws.amazon.com/devops/what-is-devops/ <br>

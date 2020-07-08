@@ -91,7 +91,7 @@ At large there are 2 areas to focus and target.
 
 ![alt text][fig8]
 
-[fig5]: devops-17.png ""
+[fig8]: devops-17.png ""
 
 
 

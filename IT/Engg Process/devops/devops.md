@@ -60,7 +60,7 @@ Below diagram gives a view of what are the key areas that will devops address.
 
 ![alt text][fig3]
 
-[fig2]: devops-12.png ""
+[fig3]: devops-12.png ""
 
 
 ## References

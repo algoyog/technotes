@@ -48,7 +48,16 @@ Lets see the below abstract representation of such a system
 *https://www.enterpriseintegrationpatterns.com/patterns/messaging/*
 
 
-
 ![alt text][logo2]
 
 [logo2]: eaiflow.png  ""
+
+## Integration Styles
+
+## Messaging Systems in depth
+
+## Message Channel
+
+## Message
+
+## 

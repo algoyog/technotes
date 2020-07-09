@@ -4,4 +4,4 @@
 
 ![alt text][j8cd]
 
-[j8cd]: /imgs/j8cd.png ""
+[j8cd]: imgs/j8cd.png ""

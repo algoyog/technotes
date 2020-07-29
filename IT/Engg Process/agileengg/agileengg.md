@@ -30,6 +30,8 @@ The Reason for emergence of agile based software development is widely known and
 > Welcome changing requirements, even late in
 development. Agile processes harness change for
 the customer's competitive advantage. <br>
+> The best architectures, requirements, and designs
+emerge from self-organizing teams.<br>
 
 #### What does this mean to engineering practices? 
 * Arch/Design should be **evolutionary** in nature as compared to static archicture, to support changing requirements.
@@ -114,8 +116,6 @@ and trust them to get the job done.<br>
 > Agile processes promote sustainable development.
 The sponsors, developers, and users should be able
 to maintain a constant pace indefinitely.<br>
-> The best architectures, requirements, and designs
-emerge from self-organizing teams.<br>
 
 
 

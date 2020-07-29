@@ -20,11 +20,23 @@ There are 2 terms in this topic - "Agile" and "Engineering". Below is the defini
 ## Software Engineering in Agile
 > Simplicity-- is the key.<br>
 
-The Reason for emergence of agile based software development is widely known and has been explored in depth. So we are not going to cover those. While we would be curious to understand and answer 2 important questions
+The Reason for emergence of agile based software development is widely known and has been explored in depth. So we are not going to cover those. While we would be curious to understand and answer the below questions
+* Will the old school engg practices fit to new agile scheme?
+* What part of old school engg process will stick on?
 * What changes in engineering would enable agile with zero impact on quality?
-* 
 
-### Time
+### Scope and Quality - **Responding to change** over following a plan
+> Welcome changing requirements, even late in
+development. Agile processes harness change for
+the customer's competitive advantage. <br>
+> Working software is the primary measure of progress.<br>
+> Continuous attention to technical excellence
+and good design enhances agility.<br>
+
+#### What does this mean to engineering practices? 
+* Arch/Design should be **evolutionary** to support changing requirements.
+
+### Time 
 > Our highest priority is to satisfy the customer
 through early and continuous delivery
 of valuable software.<br>
@@ -32,13 +44,6 @@ of valuable software.<br>
 couple of weeks to a couple of months, with a
 preference to the shorter timescale.<br>
 
-### Scope and Quality
-> Welcome changing requirements, even late in
-development. Agile processes harness change for
-the customer's competitive advantage. <br>
-> Working software is the primary measure of progress.<br>
-> Continuous attention to technical excellence
-and good design enhances agility.<br>
 
 
 ### Integration

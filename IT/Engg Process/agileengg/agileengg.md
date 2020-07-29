@@ -55,7 +55,26 @@ couple of weeks to a couple of months, with a
 preference to the shorter timescale.<br>
 
 #### What does this mean to engineering practices? 
-Frequent delivery of software is a great 
+Frequent delivery of software is a key differentiator for being agile and the backbone that enables this is devops.
+
+[Devops](https://github.com/gearuprepo/technotes/blob/master/IT/Engg%20Process/devops/devops.md) - At a very basic level, devops means interplay of code and operations targeted to synergize for accelerating the product delivery.
+
+At a very high level, 3 key terms emerge out of devops
+* Cont Integration - Integrate early and often.
+* Cont Deployment - deploy as the final stages of CI.
+* Cont Delivery - software is always deployable.
+
+##### Core Princples
+1. Treat infra as a code
+2. create a repeatable and reliable process
+3. Automate and toolify
+4. Version control and branching strategy will be key.
+5. if it hurts, do it more frequently.
+6. done means released.
+7. Integrate quality steps and security steps part of devops pipeline
+8. stringent code review is a must. eg, git pull request.
+9. DVCS is a magic. eg, git.
+
 
 ### 3. Quality - **Working software** over comprehensive documentation
 > Working software is the primary measure of progress.<br>

@@ -32,7 +32,18 @@ the customer's competitive advantage. <br>
 
 #### What does this mean to engineering practices? 
 * Arch/Design should be **evolutionary** in nature, to support changing requirements.
+    *  Adopt **microservices** based architecture to support abstraction, partitioning, technology freedom, cloud enablement
+    * Support **Domain Driven design** - Organize around business functionalities.
+    * Encourage **experimentation**
+    * **Last responsible moment** - When decisions occur is a major distinction between traditional architecture and evolutionary architecture. These decisions could be around the structure of the application, the technology stack, specific tools, or communication patterns. In a traditional architecture, these decisions manifest themselves early, before writing code. In an evolutionary architecture, we wait for the last responsible moment to make decisions.The benefit of delaying a decision is the additional information available to make the decision. The cost is any potential re-work that has to occur once a decision has been made, which can be mitigated through appropriate abstractions—but the cost is still real. 
+    * **Bring the pain forward** - When something on a project has the potential to cause pain, force yourself to do it more often and earlier, which in turn encourages you to automate the pain away and identify issues early. 
+    * **Fitness function** - Much like in evolutionary computation techniques like genetic algorithms, an architectural fitness function specifies what our target architecture looks like. The up-front thinking about what the fitness function should be for a particular system provides the guidance for decision making and the timing of decisions. Architectural decisions are scored relative to the fitness function so that we can see that the architecture is evolving in the right direction. 
+![alt text][logo1]
+
+[logo1]: fitness.png ""
+
 * Deployment architecture should follow **Infra as code** principle to adopt to any changes impacting he infra and runtime.
+
 
 
 ### Quality - **Responding to change** over following a plan
@@ -70,3 +81,4 @@ emerge from self-organizing teams.<br>
 
 ## References
 https://sea.ucar.edu/sites/default/files/Agile_Engineering_Practices.pdf <br>
+https://www.thoughtworks.com/insights/blog/microservices-evolutionary-architecture<br>

@@ -25,16 +25,20 @@ The Reason for emergence of agile based software development is widely known and
 * What part of old school engg process will stick on?
 * What changes in engineering would enable agile with zero impact on quality?
 
-### Scope and Quality - **Responding to change** over following a plan
+### Scope  - **Responding to change** over following a plan
 > Welcome changing requirements, even late in
 development. Agile processes harness change for
 the customer's competitive advantage. <br>
+
+#### What does this mean to engineering practices? 
+* Arch/Design should be **evolutionary** in nature, to support changing requirements.
+* Deployment architecture should follow **Infra as code** principle to adopt to any changes impacting he infra and runtime.
+
+
+### Quality - **Responding to change** over following a plan
 > Working software is the primary measure of progress.<br>
 > Continuous attention to technical excellence
 and good design enhances agility.<br>
-
-#### What does this mean to engineering practices? 
-* Arch/Design should be **evolutionary** to support changing requirements.
 
 ### Time 
 > Our highest priority is to satisfy the customer
@@ -46,11 +50,9 @@ preference to the shorter timescale.<br>
 
 
 
-### Integration
+### Stakeholder - **Customer collaboration** over contract negotiation and **Individuals and interactions** over processes and tools
 > Business people and developers must work
 together daily throughout the project.<br>
-
-### Stakeholder
 > Build projects around motivated individuals.
 Give them the environment and support they need,
 and trust them to get the job done.<br>

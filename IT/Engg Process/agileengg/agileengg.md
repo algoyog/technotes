@@ -2,6 +2,7 @@
 
 ## Disclaimer
 * This technotes will not cover indepth implementation of any engg practices
+* No coding and all strategies. :( *[I am not proud of this..]*
 
 There are 2 terms in this topic - "Agile" and "Engineering". Below is the definition that the document will adhere to and specifically to software engineering side.
 
@@ -31,7 +32,7 @@ development. Agile processes harness change for
 the customer's competitive advantage. <br>
 
 #### What does this mean to engineering practices? 
-* Arch/Design should be **evolutionary** in nature, to support changing requirements.
+* Arch/Design should be **evolutionary** in nature as compared to static archicture, to support changing requirements.
     *  Adopt **microservices** based architecture to support abstraction, partitioning, technology freedom, cloud enablement
     * Support **Domain Driven design** - Organize around business functionalities.
     * Encourage **experimentation**
@@ -44,20 +45,35 @@ the customer's competitive advantage. <br>
 
 * Deployment architecture should follow **Infra as code** principle to adopt to any changes impacting he infra and runtime.
 
-
-
-### Quality - **Responding to change** over following a plan
-> Working software is the primary measure of progress.<br>
-> Continuous attention to technical excellence
-and good design enhances agility.<br>
-
-### Time 
+### Time **Responding to change** over following a plan
 > Our highest priority is to satisfy the customer
 through early and continuous delivery
 of valuable software.<br>
 > Deliver working software frequently, from a
 couple of weeks to a couple of months, with a
 preference to the shorter timescale.<br>
+
+
+### Quality - **Working software** over comprehensive documentation
+> Working software is the primary measure of progress.<br>
+> Continuous attention to technical excellence
+and good design enhances agility.<br>
+
+Ensuring working software will directly impact the quality of the product. All the classical QA process needs to be adhered to, say
+* Functional validation
+    * Domain validation.
+* Non funtional validation
+    * Performance
+    * Usability
+    * reliability
+    * scalability
+
+
+#### What does this mean to engineering practices? 
+
+The silver bullet to sustain quality along with the previously defined scope and time is **depth of automation**
+
+
 
 
 

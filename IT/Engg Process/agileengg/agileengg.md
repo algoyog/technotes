@@ -36,6 +36,7 @@ the customer's competitive advantage. <br>
     *  Adopt **microservices** based architecture to support abstraction, partitioning, technology freedom, cloud enablement
     * Support **Domain Driven design** - Organize around business functionalities.
     * Encourage **experimentation**
+        * A simple example would be to use a **feature toggle** for controlling the functionalities that are unstable
     * **Last responsible moment** - When decisions occur is a major distinction between traditional architecture and evolutionary architecture. These decisions could be around the structure of the application, the technology stack, specific tools, or communication patterns. In a traditional architecture, these decisions manifest themselves early, before writing code. In an evolutionary architecture, we wait for the last responsible moment to make decisions.The benefit of delaying a decision is the additional information available to make the decision. The cost is any potential re-work that has to occur once a decision has been made, which can be mitigated through appropriate abstractions—but the cost is still real. 
     * **Bring the pain forward** - When something on a project has the potential to cause pain, force yourself to do it more often and earlier, which in turn encourages you to automate the pain away and identify issues early. 
     * **Fitness function** - Much like in evolutionary computation techniques like genetic algorithms, an architectural fitness function specifies what our target architecture looks like. The up-front thinking about what the fitness function should be for a particular system provides the guidance for decision making and the timing of decisions. Architectural decisions are scored relative to the fitness function so that we can see that the architecture is evolving in the right direction. 
@@ -73,6 +74,12 @@ Ensuring working software will directly impact the quality of the product. All t
 
 The silver bullet to sustain quality along with the previously defined scope and time is **depth of automation**
 
+* Automate Testcases
+* Encourage TDD
+* Create spike solutions to reduce risks and not prototypes
+* Implement mutation testing to verify the quality of test cases.
+* Techincal debt should be constantly eliminated.
+* Encourage innovative developer interaction like  pair programming
 
 
 

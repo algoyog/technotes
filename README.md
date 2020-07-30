@@ -1,15 +1,4 @@
 # technotes
-Contains Subject matter and technotes
+These are technotes containing the subject matter information across CS, IT and Sanskrit.
 
-### IT
-> |Area|Subject of Interest|
-> |----|----|
-> |Architecture|[Enterprise Integration Patterns](https://github.com/gearuprepo/technotes/blob/master/IT/Architecture/eai/Enterprise%20Integration%20Patterns.md)|
-> |Architecture|[Microservice Architecture](https://github.com/gearuprepo/technotes/blob/master/IT/Architecture/msa/Microservices%20Arch.md)
-> |Engg Process|[Devops](https://github.com/gearuprepo/technotes/blob/master/IT/Engg%20Process/devops/devops.md)
-
-### CS
-> |Area|Subject of Interest|
-> |----|----|
-> |Algos -> D&C|[Multiply](https://github.com/gearuprepo/technotes/blob/master/CS/Algos/dnc/multiply.md)|
-> |Algos -> D&C|[Merge Sort](https://github.com/gearuprepo/technotes/blob/master/CS/Algos/dnc/mergesort.md)
+Thanks for all the sources attributed.

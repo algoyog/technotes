@@ -3,7 +3,7 @@
 ## Disclaimer
 * This technotes will not cover indepth analysis/implementation of any arch or engg practices
 * No coding and all strategies. :( *[I am not proud of this..]*
-
+* No recommendations on tools.
 
 There are 2 terms in this topic - "Agile" and "Engineering". Below is the definition that the document will adhere to and specifically to software engineering side.
 
@@ -104,6 +104,7 @@ The silver bullet to sustain quality along with the previously defined scope and
 * Implement mutation testing to verify the quality of test cases.
 * Techincal debt should be constantly eliminated.
 * Encourage innovative developer interaction like  pair programming
+* Improve dev tooling like swagger, code scaffoldings, mutation testing tools, etc.
 
 
 

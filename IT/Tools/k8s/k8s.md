@@ -92,9 +92,9 @@ Kubernetes was first developed by a team at Google. It is based on their experie
 
 
 ##### Deployment
-![alt text][logo4]    
+![alt text][logo8]    
 
-[logo4]: repset-seq.png ""
+[logo8]: dep-seq.png ""
 
 
 

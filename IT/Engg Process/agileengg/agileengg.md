@@ -1,8 +1,9 @@
 # Agile Engineering
 
 ## Disclaimer
-* This technotes will not cover indepth implementation of any engg practices
+* This technotes will not cover indepth analysis/implementation of any arch or engg practices
 * No coding and all strategies. :( *[I am not proud of this..]*
+
 
 There are 2 terms in this topic - "Agile" and "Engineering". Below is the definition that the document will adhere to and specifically to software engineering side.
 
@@ -35,7 +36,7 @@ emerge from self-organizing teams.<br>
 
 #### What does this mean to engineering practices? 
 * Arch/Design should be **evolutionary** in nature as compared to static archicture, to support changing requirements.
-    *  Adopt **microservices** based architecture to support abstraction, partitioning, technology freedom, cloud enablement
+    *  Adopt **[microservices](https://github.com/gearuprepo/technotes/blob/master/IT/Architecture/msa/Microservices%20Arch.md)** based architecture to support abstraction, partitioning, technology freedom, cloud enablement
     * Support **Domain Driven design** - Organize around business functionalities.
     * Encourage **experimentation**
         * A simple example would be to use a **feature toggle** for controlling the functionalities that are unstable
@@ -118,7 +119,7 @@ The sponsors, developers, and users should be able
 to maintain a constant pace indefinitely.<br>
 
 
-
+This requires aspects outside of core engineering, so not covered part of this technotes.
 
 
 

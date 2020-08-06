@@ -56,8 +56,18 @@ Lets see the below abstract representation of such a system
 
 ## Messaging Systems in depth
 
-## Message Channel
+### 1. Message Channel
+Message channels provide conduit for message to pass through from source to destination(s). 
 
-## Message
+#### Promises of a message channel
+* Delivery from source to destination(s)
+* Reliability of message
+* Interoperability with multiple technical clients.
 
-## 
+#### Types
+* Point to Point
+    * This is a one to one messaging
+    * This can have 2 options deliver message, request-reply channel
+* Publish - subscribe
+* Data type 
+
